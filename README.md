@@ -12,4 +12,4 @@
 
 ###  📫 How to reach me
 - *LinkedIn:*
- www.linkedin.com/in/sineka-arasan-s2006/
+- https://www.linkedin.com/in/sineka-arasan-s2006/
