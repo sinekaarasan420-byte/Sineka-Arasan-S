@@ -1,6 +1,6 @@
 # Hi there, I'm Sineka Arasan 👋
 
-- 🎓 Second-Year BCA Student at *University of Madras*
+- 🎓 BCA Student at *University of Madras*
 - 💻 Passionate about *Python Programming*, *Automation*, and *Cybersecurity*
 - 🛠️ Currently building my *Personal AI Voice Assistant System*
 - ⚡ Fun fact: I love learning new tech tools and automating everyday tasks!
